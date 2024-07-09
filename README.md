@@ -29,6 +29,8 @@ https://trello.com/invite/b/1OPn6RFI/ATTIcc8b7b388480140fb5f17bfa8c2a1150E6744D4
 *HEDEF KİTLE*
 
  ### *SPRINT 1*
+*Sprint notu:
+*FigmaUI tasarımlarında kullanılmasına karar verilmiştir .
 
 *Sprint 1 için tamamlanması tahmin edilen puan:* 100 Puan
 *Puan tamamlama mantığı:* Proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk Sprint için 100 puan ile başlanması kararlaştırılmıştır.
